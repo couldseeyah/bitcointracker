@@ -1,16 +1,11 @@
-# bitcoin_ticker
+# Bitcoin Ticker
 
-A new Flutter project.
+A simple Flutter project for cryptocurrency price tracking
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+An app that tells the current price in various currencies such as EUR, GBP, USD for Bitcoin, Ethereum and Litecoin.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-04-18 022146](https://github.com/couldseeyah/bitcointracker/assets/116055831/6735060f-8522-4d15-b5c3-7e8c655272f8)
+![Screenshot 2024-04-18 022248](https://github.com/couldseeyah/bitcointracker/assets/116055831/a0afb65f-90a4-47a5-92a3-308632e877c7)
